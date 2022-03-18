@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-You can use the [editor on GitHub](https://github.com/Blue-Technology-MM/Blue-Technology-MM.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Bienvenidos a Blue Technology MM
+Somos una empresa de tecnologia que proporciona soluciones que cubren las mas altas exigencias de los clientes.
+Pone a su concideracion equipos y servicios informaticos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contamos con personal calificado y certificado que garantiza una atencion de calidad.
 
-### Markdown
+Queremos reiterarle nuetro compromiso y agradecimiento, asi mismo esperamos poder servirle en sus futuros pedidos y requerimientos informaticos con la calidad y el servicio que usted merece.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
