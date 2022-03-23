@@ -14,8 +14,6 @@ Ser la empresa lider en la presentacion de Soporte Tecnico y Venta de refaccione
 Garantizar la continuidad de la operacion de nuetros clientes a traves de soluciones en soporte y asistencia tecnica que contribuya al incremento de su productividad permanente de mejora continua.
 
 
+**Valores**
 
-
-
-
-
+Servicio,honestidad,calidad,etica, trabajo en equipo,innovacion,desarrollo.
