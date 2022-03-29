@@ -2,7 +2,7 @@
 
 
 <form action="https://formspree.io/f/xlezwboy" method="post">
-  Name:<input type="text" name="name><br> 
+  Name:<input type="text" name="name"><br> 
   E mail:<input type="text" name="email"><br> 
   <input type="submit">
 </form>
