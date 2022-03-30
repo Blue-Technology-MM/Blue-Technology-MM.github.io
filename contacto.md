@@ -8,7 +8,8 @@
   E mail:<input type="text" name="email"><br> 
   <input type="submit"><input type="email">
   Cita: <input type="datetime-local">
-  <label for="quantity"> Calificanos: (del 1 al 5):</label>
+  <label for="quantity"> 
+   Calificanos: (del 1 al 5):</label>
   <input type="number" id="quantity" name="quantity" min="1" max="5">
   <input type="submit" value="Submit">
 </form>
