@@ -5,7 +5,7 @@
  
   Nombre:<input type="text" name="nombre"><br> 
   
-  Apellido:<input type="text" id="lname">label><br>
+  Apellido:<input type="text" id="lname">
   
   E mail:<input type="text" name="email"><br> 
   <input type="submit"><input type="email">
@@ -15,7 +15,6 @@
  <form action="/action_page.php">
   <label for="quantity"> Calificanos: (del 1 al 5):</label>
   <input type="number" id="quantity" name="quantity" min="1" max="5">
-  id="quantity" name="quantity" min="1" max="5">
   <input type="submit" value="Submit">
 
  
