@@ -15,7 +15,7 @@
  <form action="/action_page.php">
   <label for="quantity"> Calificanos: (del 1 al 5):</label>
   <input type="number" id="quantity" name="quantity" min="1" max="5">
-  <input type="enviar" value="Submit">
+  <input type="enviar"value="Submit">
 </form></body></html>
 
 
